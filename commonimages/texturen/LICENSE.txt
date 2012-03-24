@@ -1,0 +1,8 @@
+All images of this folder does reuse the Official GNU image from:
+http://de.wikipedia.org/wiki/Datei:Official_gnu.svg
+Created by: Victor Siame <vcopovi@wanadoo.fr>
+License: "Lizenz Freie Kunst" "Copyleft Attitude"
+http://en.wikipedia.org/wiki/de:Lizenz_Freie_Kunst
+http://artlibre.org/licence/lal/de
+
+All images and inherited images must be satisfy the ArtLibre License in version 1.1.
