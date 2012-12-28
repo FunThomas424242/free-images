@@ -25,3 +25,5 @@ entsprechend zu ändern. Es gilt folgende Lizenz:
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/de/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">commonimages</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/FunThomas424242/free-images/tree/master/commonimages" property="cc:attributionName" rel="cc:attributionURL">FunThomas424242</a> steht unter einer <a rel="license" href="http://creativecommons.org/licenses/by/3.0/de/">Creative Commons Namensnennung 3.0 Deutschland Lizenz</a>.<br />Über diese Lizenz hinausgehende Erlaubnisse können Sie unter <a xmlns:cc="http://creativecommons.org/ns#" href="funthomas424242@gmail.com" rel="cc:morePermissions">funthomas424242@gmail.com</a> erhalten
  
+
+ A creative commons license could be created at (http://creativecommons.org/choose/).
