@@ -1,3 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/FunThomas424242/free-images.png?label=ready&title=Ready)](http://waffle.io/FunThomas424242/free-images)
+
 Freie Bildersammlung
 ====================
 Das Repository enthält eine Sammlung freier Bilder.
